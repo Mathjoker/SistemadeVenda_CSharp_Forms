@@ -1,0 +1,12 @@
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.exe.config
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.exe
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\bin\Debug\Sistema de Vendas.pdb
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csproj.AssemblyReference.cache
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.frm_menu.resources
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.Properties.Resources.resources
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csproj.GenerateResource.cache
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.csproj.CoreCompileInputs.cache
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.exe
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema de Vendas.pdb
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.frm_categorias.resources
+D:\Development\C#\Projetos\Sistema de vendas\Sistema de Vendas\obj\Debug\Sistema_de_Vendas.frm_produtos.resources
